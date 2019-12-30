@@ -98,9 +98,3 @@ Both of these challenges encompasses a real-world situation where your newfound 
 * Start early, and reach out for help often! Challenge yourself to identify _specific_ questions for your instructors and TAs. Don't resign yourself to simply saying, "I'm totally lost." Come prepared to show your effort and thought patterns, we'll be happy to help along the way.
 
 * Always commit your work and back it up with GitHub pushes. You don't want to lose hours of your work because you didn't push it to GitHub every half hour or so.
-
-  * **Commit often**.
-
-## Copyright
-
-Trilogy Education Services © 2018. All Rights Reserved.
